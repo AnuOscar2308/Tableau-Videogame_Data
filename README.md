@@ -20,3 +20,50 @@ This project answers:
 
 **_What types of games sell the most and how has the video game market evolved across platforms and years?_**
 
+## Visualization & Analysis:
+### 1) Genre Analysis
+The bar chart shows total global sales by genre.
+
+Used to identify the most profitable game categories.
+
+### 2) Market Growth Analysis
+The area chart displays sales across years, segmented by genre.
+
+Used to detect growth periods and industry peaks.
+
+### 3) Platform Performance
+A bubble chart compares platforms by total sales volume.
+
+Shows the lifecycle dominance of consoles across generations.
+
+### 4) Publisher Dominance
+Treemap visualizes the market share of top publishers.
+
+Reveals competitive hierarchy in the industry.
+
+### 5) Top Games Performance
+Bar chart lists highest selling individual titles.
+
+Identifies blockbuster patterns and franchise dominance.
+
+## Skills:
+- **Data Visualization:** Tableau dashboard creation, Interactive analytics, Storytelling with data
+- **Data Analysis:** Trend analysis, Market segmentation, Comparative analysis
+- **Business Analytics:** Market share evaluation, Product performance analysis
+- **Data Handling:** Data aggregation, Feature grouping
+
+## Key Findings
+- Action and Sports genres generate the highest global sales
+- Nintendo dominatesthe  publisher market share
+- Console generations strongly influence sales spikes
+- Peak gaming industry growth occurred around the late 2000s
+- Franchises drive recurring success
+
+## Business Recommendation
+Game studios should:
+- Prioritise proven high-demand genres
+- Align releases with strong platform cycles
+- Invest in franchise development
+- Target peak market adoption windows
+
+This enables a data-driven development strategy instead of guesswork.
