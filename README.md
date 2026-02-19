@@ -46,6 +46,9 @@ Bar chart lists highest selling individual titles.
 
 Identifies blockbuster patterns and franchise dominance.
 
+## Final Dashboard:
+<img width="1700" height="1000" alt="Videogame Dashboard" src="https://github.com/user-attachments/assets/f8fc613a-8fa5-4ec5-9a72-3f6e62398c72" />
+
 ## Skills:
 - **Data Visualization:** Tableau dashboard creation, Interactive analytics, Storytelling with data
 - **Data Analysis:** Trend analysis, Market segmentation, Comparative analysis
